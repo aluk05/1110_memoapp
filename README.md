@@ -3,7 +3,7 @@
 
 # ①課題内容（どんな作品か）
 直近カラーを使った作品に魅了され、触発されてlocalStorageを使って作ったカラーパレットアプリです。
-![capture-image](./src/capture-memo.mov)
+https://github.com/aluk05/1110_memoapp/assets/147965084/654ad368-16da-440b-970c-c991ea8d1841
 
 # ②工夫した点・こだわった点
 
