@@ -5,6 +5,7 @@
 直近カラーを使った作品に魅了され、触発されてlocalStorageを使って作ったカラーパレットアプリです。
 
 実際の操作画面は下記をご覧ください。
+
 ![capture-memo](https://github.com/aluk05/1110_memoapp/assets/147965084/db89ba67-0daf-4d90-b01f-27436ae6a616)
 
 # ★★ちなみに★★
