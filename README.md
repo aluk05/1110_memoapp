@@ -9,7 +9,7 @@
 ![capture-memo](https://github.com/aluk05/1110_memoapp/assets/147965084/db89ba67-0daf-4d90-b01f-27436ae6a616)
 
 # ★★ちなみに★★
-githubのREADME.mdに画像埋め込み方法をまえたつさんが伝授されていたのを見て、
+githubのREADME.mdに画像埋め込みする方法をまえたつさんが伝授されていたのを見て、
 
 動画埋め込みする方法を探してみました。
 
