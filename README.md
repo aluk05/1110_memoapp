@@ -12,6 +12,7 @@
 githubのREADME.mdに動画埋め込みする方法は下記を参考にしました。
 
 ※mp4形式だと埋め込みできないため、gif形式に変換しています
+
 （https://elsammit-beginnerblg.hatenablog.com/entry/2022/05/26/234016）
 
 # ②工夫した点・こだわった点
